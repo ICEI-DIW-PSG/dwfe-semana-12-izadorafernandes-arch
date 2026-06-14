@@ -12,4 +12,4 @@ Nesta atividade, vamos desenvolver um sistema simples de cadastro de funcionári
 
 ![Aplicação](images/Cadastro.png)
 
-![LocalStorage](images/localstorage.png)
+![LocalStorage](images/LocalStorage.png)
