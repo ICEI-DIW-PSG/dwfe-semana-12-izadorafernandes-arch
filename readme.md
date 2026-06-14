@@ -5,11 +5,11 @@ Nesta atividade, vamos desenvolver um sistema simples de cadastro de funcionári
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Izadora Santiago Fernandes 
+- Matricula: 917459
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - CARDS DE PELO MENOS 5 FUNCIONÁRIOS CADASTRADOS - AQUI >>
+![Aplicação](images/Cadastro.png)
 
-<<  COLOQUE A IMAGEM - LOCALSTORAGE NO NAVEGADOR - AQUI >>
+![LocalStorage](images/localstorage.png)
