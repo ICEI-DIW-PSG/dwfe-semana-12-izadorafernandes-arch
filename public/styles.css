@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+input{
+    display:block;
+    margin:10px 0;
+    padding:8px;
+    width:300px;
+}
+
+button{
+    padding:10px;
+}
+
+#listaFuncionarios{
+    display:flex;
+    flex-wrap:wrap;
+    gap:15px;
+    margin-top:20px;
+}
+
+.card{
+    border:1px solid #ccc;
+    border-radius:8px;
+    padding:15px;
+    width:250px;
+}
